@@ -72,6 +72,9 @@ seed categories:
 ## Start the App
 
 `npm run dev   `
+
+## Screenshots
+
 ## How to use this project
 
 Since this is an example project , I'd encourage you to clone this repo and add your .env file and use it as a starter boilerplate.
