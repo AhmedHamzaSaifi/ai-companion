@@ -27,6 +27,8 @@ This project is an example of software as a service / web application build usin
 ## Prerequisites
 `Node Version 20.x.x & above`
 ## Cloning the repository
+
+`https://github.com/AhmedHamzaSaifi/ai-companion`
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
