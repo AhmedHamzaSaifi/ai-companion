@@ -74,6 +74,11 @@ seed categories:
 `npm run dev   `
 
 ## Screenshots
+![a1](https://github.com/AhmedHamzaSaifi/ai-companion/assets/90468464/0b79cd88-2042-4a65-9805-7e168e4902ed)
+![a2](https://github.com/AhmedHamzaSaifi/ai-companion/assets/90468464/003a6826-a52d-4983-b5a9-27d716c6401d)
+![a3](https://github.com/AhmedHamzaSaifi/ai-companion/assets/90468464/b9ffdfb9-c68e-4571-9957-94641d61016f)
+![a4](https://github.com/AhmedHamzaSaifi/ai-companion/assets/90468464/719648ec-abcc-485e-b84a-37b7304adf28)
+![a5](https://github.com/AhmedHamzaSaifi/ai-companion/assets/90468464/5fe310ea-bebd-48ac-b01a-d6cdd28d69cc)
 
 ## How to use this project
 
